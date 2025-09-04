@@ -1,0 +1,16 @@
+<Classificados>
+		<Classificado>
+			<cpfClassificado Tipo="02">
+				<Numero>00000000191</Numero>
+			</cpfClassificado>
+			<nomeClassificado>Nome</nomeClassificado>
+			<ordemClassificacao>1</ordemClassificacao>
+		</Classificado>
+		<Classificado>
+			<cpfClassificado Tipo="02">
+				<Numero>00000000191</Numero>
+			</cpfClassificado>
+			<nomeClassificado>Nome</nomeClassificado>
+			<ordemClassificacao>2</ordemClassificacao>
+		</Classificado>
+</Classificados>

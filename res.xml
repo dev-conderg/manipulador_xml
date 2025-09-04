@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Classificados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Classificado>
+		<cpfClassificado>
+			<Numero>694.074.020-10</Numero>
+		</cpfClassificado>
+		<nomeClassificado>João da Silva</nomeClassificado>
+		<ordemClassificacao>1</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>415.927.850-77</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Wagner Oliveira</nomeClassificado>
+		<ordemClassificacao>2</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>508.541.040-89</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Alice Pamplona</nomeClassificado>
+		<ordemClassificacao>3</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>700.504.660-97</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Tiago Ribeiro</nomeClassificado>
+		<ordemClassificacao>4</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>616.468.510-99</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Amanda dos Resi</nomeClassificado>
+		<ordemClassificacao>5</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>321.654.987-00</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Bruno Ferreira</nomeClassificado>
+		<ordemClassificacao>6</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>852.963.741-11</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Camila Andrade</nomeClassificado>
+		<ordemClassificacao>7</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>147.258.369-22</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Rafael Moreira</nomeClassificado>
+		<ordemClassificacao>8</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>963.852.741-33</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Juliana Costa</nomeClassificado>
+		<ordemClassificacao>9</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>753.951.456-44</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Gustavo Pereira</nomeClassificado>
+		<ordemClassificacao>10</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>852.147.963-55</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Mariana Lopes</nomeClassificado>
+		<ordemClassificacao>11</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>159.357.258-66</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Pedro Henrique</nomeClassificado>
+		<ordemClassificacao>12</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>456.123.789-77</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Luana Martins</nomeClassificado>
+		<ordemClassificacao>13</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>789.456.123-88</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Eduardo Ramos</nomeClassificado>
+		<ordemClassificacao>14</ordemClassificacao>
+	</Classificado>
+	<Classificado>
+		<cpfClassificado>
+			<Numero>951.753.852-99</Numero>
+		</cpfClassificado>
+		<nomeClassificado>Carolina Fernandes</nomeClassificado>
+		<ordemClassificacao>15</ordemClassificacao>
+	</Classificado>
+</Classificados>

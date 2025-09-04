@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Classificados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<lcl:Classificado>
+		<lcl:cpfClassificado Tipo="02">
+			<gen:Numero>694.074.020-10</gen:Numero>
+		</lcl:cpfClassificado>
+		<lcl:nomeClassificado>João da Silva</lcl:nomeClassificado>
+		<lcl:ordemClassificacao>1</lcl:ordemClassificacao>
+	</lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>415.927.850-77</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Wagner Oliveira</lcl:nomeClassificado><lcl:ordemClassificacao>2</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>508.541.040-89</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Alice Pamplona</lcl:nomeClassificado><lcl:ordemClassificacao>3</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>700.504.660-97</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Tiago Ribeiro</lcl:nomeClassificado><lcl:ordemClassificacao>4</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>616.468.510-99</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Amanda dos Resi</lcl:nomeClassificado><lcl:ordemClassificacao>5</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>321.654.987-00</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Bruno Ferreira</lcl:nomeClassificado><lcl:ordemClassificacao>6</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>852.963.741-11</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Camila Andrade</lcl:nomeClassificado><lcl:ordemClassificacao>7</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>147.258.369-22</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Rafael Moreira</lcl:nomeClassificado><lcl:ordemClassificacao>8</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>963.852.741-33</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Juliana Costa</lcl:nomeClassificado><lcl:ordemClassificacao>9</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>753.951.456-44</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Gustavo Pereira</lcl:nomeClassificado><lcl:ordemClassificacao>10</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>852.147.963-55</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Mariana Lopes</lcl:nomeClassificado><lcl:ordemClassificacao>11</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>159.357.258-66</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Pedro Henrique</lcl:nomeClassificado><lcl:ordemClassificacao>12</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>456.123.789-77</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Luana Martins</lcl:nomeClassificado><lcl:ordemClassificacao>13</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>789.456.123-88</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Eduardo Ramos</lcl:nomeClassificado><lcl:ordemClassificacao>14</lcl:ordemClassificacao></lcl:Classificado>
+	<lcl:Classificado><lcl:cpfClassificado Tipo="02"><gen:Numero>951.753.852-99</gen:Numero></lcl:cpfClassificado><lcl:nomeClassificado>Carolina Fernandes</lcl:nomeClassificado><lcl:ordemClassificacao>15</lcl:ordemClassificacao></lcl:Classificado>
+</Classificados>
+
+
