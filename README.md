@@ -1,20 +1,29 @@
 
-Requisito basicos: 
+## Requisito Básicos: 
 Instalar Node.js 
-https://nodejs.org/pt
 
-pacotes:
+<a href="https://nodejs.org/pt">Link de acesso: node.js</a>
+
+## Instalação 
+Fazer o download dos pacotes para windows e depois insalação padrão
+next next finish
+
+## Pacotes:
 @xmldom/xmldom
-npm install @xmldom/xmldom
+
+<code>npm install @xmldom/xmldom</code>
+
+## Instruções:
 
 Colocar o documento na pasta xml
-Nomear como res.xml
 
-no terminal de comando 
-dentro da pasta xml 
-de o comando 
-node transform.js 
+Nomear como: 
+<code>res.xml</code>
+
+no terminal de comando dentro da pasta xml de o comando 
+
+<code>node transform.js</code>
 
 Vai ser gerado um arquivo novo 
 com os parametros corretos
-saida.xml
+<code>saida.xml</code>
