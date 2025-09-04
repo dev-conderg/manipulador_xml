@@ -5,7 +5,7 @@ Instalar Node.js
 <a href="https://nodejs.org/pt">Link de acesso: node.js</a>
 
 ## Instalação 
-Fazer o download dos pacotes para windows e depois insalação padrão
+Fazer o download dos pacotes para windows e depois instalação padrão
 next next finish
 
 ## Pacotes:
